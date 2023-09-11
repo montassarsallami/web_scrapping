@@ -1,0 +1,346 @@
+,ADRESSE,AUTRE RÉMUNÉRATION,AVANTAGES SOCIAUX EMPLOYÉ,DATE DE CRÉATION,DATE DE PUBLICATION,SALAIRE,SECTEUR,SITE WEB,SIÈGE SOCIAL,TAILLE DE LA SOCIÉTÉ,TYPE DE CONTRAT,current_date,description,domain,job_id,job_title,nom_societe
+0,"
+Carros, PACA 06511",,,,"
+Il y a 6 jours","
+36 000 € Par An","
+Chimie","
+http://www.expectra.fr",,"
+500 à 999 salariés","
+Temps Plein, CDI",2023-07-31,"A propos de notre client:
+Nous recherchons pour le compte de notre client leader dans le secteur de la santé, un ingénieur Data/BI en CDI, basé proche de Nice.
+Descriptif du poste:
+Vous êtes le garant du support,de la maintenance, des évolutions et des projets BI de votre domaine d'application, vous travaillerez en étroite collaboration avec les équipes business (principalement commerciales et marketing) ainsi que les autres membres de l'équipe BI.
+Vos principales missions seront :
+- Assurer le support utilisateur de la plateforme BI en collaboration avec l'équipe BI.
+- Traiter les demandes d'évolution et de maintenance de votre domaine : analyse, modélisation, conception, reporting, tests, communication et suivi du traitement de la demande, dans le respect du planning et du budget validé.
+- Gérer la documentation (projets, évolutions, maintenance …) et appliquer les normes et procédures internes.
+- Mener à bien les projets relatifs à son domaine de compétences en termes de qualité, délais et coûts.
+- Assurer le management opérationnel de plusieurs projets pouvant être menés en parallèle ainsi que l'interface entre les utilisateurs et les spécialistes de la technologie utilisée (consulting).
+- Rendre compte à son supérieur hiérarchique de l'avancement des projets et des évolutions, des difficultés rencontrées ainsi que des événements prévisibles.
+Profil recherché:
+De formation BAC+4/5 en Informatique, vous possédez une expérience d'au moins 2 ans dans la modélisation et la conception BI autour de la plateforme SAP BI, avec en particulier la maitrise de l'ETL SAP Data Services, la conception d'univers BO, le reporting SAP Web Intelligence et Microsoft PowerBI.
+Une expérience sur les ERPs SAP et/ou Microsoft Dynamics Nav, ainsi que la pratique du langage Python serait un plus.
+Vous êtes très bon communiquant, rigoureux, avec le sens de l'analyse et de l'agilité.
+Anglais : lu, parlé, écrit.
+Réf. de l’offre: 307-S13-R001321_03R",bi,ea70df1f-0f83-4af4-8393-df612e8c5165,Ingénieur data/bi (F/H),Ingénieur data/bi (F/H)
+1,"
+112, Av De Paris CS 60002
+Vincennes, IDF 94300",,,,"
+Il y a 13 jours",,,,,,"
+Temps Plein, CDI",2023-07-31,"Assistance à maîtrise d’ouvrage Décisionnelle (B.I.) sur Projets Data
+
+Contexte :
+Au sein de la DSI, l'objet de la mission est d’accompagner la maîtrise d’ouvrage du Service SI Data dans l’ensemble destâches à réaliser pour répondre aux besoins métiers exprimés.
+Dans le contexte des cadres agiles Scrum et Kanban, l’objet de la prestation est de respecter les engagements de réalisation des US (User Stories) des Sprints Scrum et de traitement des fiches Kanban.
+
+
+Définition et nature des tâches à réaliser
+La prestation concerne des activités d’Assistance à Maîtrise d’Ouvrage (AMOA) avec un rôle d’Analyste d’Affaires (Business Analyst) pour la conception, la mise en œuvre et la gestion patrimoniale des produits data concernés.
+Elle comprend les tâches suivantes :
+Recueil et analyse des besoins métiers ;
+Analyse des données permettant de réaliser de manière rigoureuse les autres tâches ;
+Rédaction des spécifications fonctionnelles : modèle de données, dictionnaire de données, procédureset règles d’alimentation, univers Business Objects (SAP BI4), data Viz Tableau, workflow Alteryx ;
+Rédaction des plans de tests et recette ;
+Réalisation et suivi des recettes ;
+Préparation et suivi des mises en production ;
+Rédaction de la documentation fonctionnelle ;
+Réalisation ou aide à la réalisation de documents SAP BI4, de dataviz Tableau et de workflows Alteryx;
+Assistance et accompagnement des parties prenantes métiers Product Owner, Data Owners et Stewards,
+Préparation et animation de cérémonies agiles.
+
+
+Profil recherché
+Ingénieur Décisionnel ayant une expérience de 5 à 10 ans :
+- Maitrise des outils : Tableau, Alteryx, business object
+- Expertise sur les concepts portés par ces types de produits
+- Une pratique de projet en méthode agile
+- Des qualités de synthèse, de restitution et de formalisation
+- Une capacité de travail en équipe avec des qualités relationnelles et organisationnelles
+- Forte implication, pragmatisme, dynamisme, proactivité
+Analyse des données dans un contexte data (ex. données sources, staging, entrepôt, magasins) ;
+Modélisation dimensionnelle des bases de données relationnelles : étoile, flocon, gestion des historiques, hiérarchies et agrégats, clés et valeurs génériques, normalisation des entités/relations ;
+Domaines et activités métiers d’une banque de détail en général dont notamment la tenue de compte, les moyens de paiement, l’activité de banque en ligne, le calcul du PNB (Produit Net Bancaire), la production d’états réglementaires ;
+Cadres agiles Scrum et Kanban ;
+Architecture fonctionnelle et technique sur les entrepôts et lac de données ;
+Design de solution : analyse et préconisation des solutions à partir des besoins métiers ;
+Requêtage et Data Viz : la maîtrise des outils SAP BI 4 et Tableau sera un plus ;
+Flux de travaux : la maîtrise de l’outil de workflow Alteryx sera un plus ;
+Environnements applicatifs complexes (intégration de SI) avec des acteurs multiples (métiers, informatiques, partenaires externes).
+
+Si intéressé, merci d'envoyer sans délai votre CV + date de disponibilité +salaire/prétentions/tarif à drh@digital-it.fr sous la réf 5307.",bi,e9a9535d-8d3d-4a56-87d6-efd6ebec4817,Ingénieur Décisionnel SAP BI + TABLEAU SOFTWARE (H/F),DIGITAL-IT
+2,"
+Carros, PACA 06511",,,,"
+Il y a 6 jours","
+36 000 € Par An","
+Chimie","
+http://www.expectra.fr",,"
+500 à 999 salariés","
+Temps Plein, CDI",2023-07-31,"A propos de notre client:
+Nous recherchons pour le compte de notre client leader dans le secteur de la santé, un ingénieur Data/BI en CDI, basé proche de Nice.
+Descriptif du poste:
+Vous êtes le garant du support,de la maintenance, des évolutions et des projets BI de votre domaine d'application, vous travaillerez en étroite collaboration avec les équipes business (principalement commerciales et marketing) ainsi que les autres membres de l'équipe BI.
+Vos principales missions seront :
+- Assurer le support utilisateur de la plateforme BI en collaboration avec l'équipe BI.
+- Traiter les demandes d'évolution et de maintenance de votre domaine : analyse, modélisation, conception, reporting, tests, communication et suivi du traitement de la demande, dans le respect du planning et du budget validé.
+- Gérer la documentation (projets, évolutions, maintenance …) et appliquer les normes et procédures internes.
+- Mener à bien les projets relatifs à son domaine de compétences en termes de qualité, délais et coûts.
+- Assurer le management opérationnel de plusieurs projets pouvant être menés en parallèle ainsi que l'interface entre les utilisateurs et les spécialistes de la technologie utilisée (consulting).
+- Rendre compte à son supérieur hiérarchique de l'avancement des projets et des évolutions, des difficultés rencontrées ainsi que des événements prévisibles.
+Profil recherché:
+De formation BAC+4/5 en Informatique, vous possédez une expérience d'au moins 2 ans dans la modélisation et la conception BI autour de la plateforme SAP BI, avec en particulier la maitrise de l'ETL SAP Data Services, la conception d'univers BO, le reporting SAP Web Intelligence et Microsoft PowerBI.
+Une expérience sur les ERPs SAP et/ou Microsoft Dynamics Nav, ainsi que la pratique du langage Python serait un plus.
+Vous êtes très bon communiquant, rigoureux, avec le sens de l'analyse et de l'agilité.
+Anglais : lu, parlé, écrit.
+Réf. de l’offre: 307-S13-R001321_03R",bi,dee8c1d6-d9f1-4a02-8c5d-1253b6b01eb3,Ingénieur data/bi (F/H),Ingénieur data/bi (F/H)
+3,"
+112, Av De Paris CS 60002
+Vincennes, IDF 94300",,,,"
+Il y a 13 jours",,,,,,"
+Temps Plein, CDI",2023-07-31,"Assistance à maîtrise d’ouvrage Décisionnelle (B.I.) sur Projets Data
+
+Contexte :
+Au sein de la DSI, l'objet de la mission est d’accompagner la maîtrise d’ouvrage du Service SI Data dans l’ensemble destâches à réaliser pour répondre aux besoins métiers exprimés.
+Dans le contexte des cadres agiles Scrum et Kanban, l’objet de la prestation est de respecter les engagements de réalisation des US (User Stories) des Sprints Scrum et de traitement des fiches Kanban.
+
+
+Définition et nature des tâches à réaliser
+La prestation concerne des activités d’Assistance à Maîtrise d’Ouvrage (AMOA) avec un rôle d’Analyste d’Affaires (Business Analyst) pour la conception, la mise en œuvre et la gestion patrimoniale des produits data concernés.
+Elle comprend les tâches suivantes :
+Recueil et analyse des besoins métiers ;
+Analyse des données permettant de réaliser de manière rigoureuse les autres tâches ;
+Rédaction des spécifications fonctionnelles : modèle de données, dictionnaire de données, procédureset règles d’alimentation, univers Business Objects (SAP BI4), data Viz Tableau, workflow Alteryx ;
+Rédaction des plans de tests et recette ;
+Réalisation et suivi des recettes ;
+Préparation et suivi des mises en production ;
+Rédaction de la documentation fonctionnelle ;
+Réalisation ou aide à la réalisation de documents SAP BI4, de dataviz Tableau et de workflows Alteryx;
+Assistance et accompagnement des parties prenantes métiers Product Owner, Data Owners et Stewards,
+Préparation et animation de cérémonies agiles.
+
+
+Profil recherché
+Ingénieur Décisionnel ayant une expérience de 5 à 10 ans :
+- Maitrise des outils : Tableau, Alteryx, business object
+- Expertise sur les concepts portés par ces types de produits
+- Une pratique de projet en méthode agile
+- Des qualités de synthèse, de restitution et de formalisation
+- Une capacité de travail en équipe avec des qualités relationnelles et organisationnelles
+- Forte implication, pragmatisme, dynamisme, proactivité
+Analyse des données dans un contexte data (ex. données sources, staging, entrepôt, magasins) ;
+Modélisation dimensionnelle des bases de données relationnelles : étoile, flocon, gestion des historiques, hiérarchies et agrégats, clés et valeurs génériques, normalisation des entités/relations ;
+Domaines et activités métiers d’une banque de détail en général dont notamment la tenue de compte, les moyens de paiement, l’activité de banque en ligne, le calcul du PNB (Produit Net Bancaire), la production d’états réglementaires ;
+Cadres agiles Scrum et Kanban ;
+Architecture fonctionnelle et technique sur les entrepôts et lac de données ;
+Design de solution : analyse et préconisation des solutions à partir des besoins métiers ;
+Requêtage et Data Viz : la maîtrise des outils SAP BI 4 et Tableau sera un plus ;
+Flux de travaux : la maîtrise de l’outil de workflow Alteryx sera un plus ;
+Environnements applicatifs complexes (intégration de SI) avec des acteurs multiples (métiers, informatiques, partenaires externes).
+
+Si intéressé, merci d'envoyer sans délai votre CV + date de disponibilité +salaire/prétentions/tarif à drh@digital-it.fr sous la réf 5307.",bi,ebc98788-f9c0-4182-9c45-763242ae897d,Ingénieur Décisionnel SAP BI + TABLEAU SOFTWARE (H/F),DIGITAL-IT
+4,"
+Carros, PACA 06511",,,,"
+Il y a 6 jours","
+36 000 € Par An","
+Chimie","
+http://www.expectra.fr",,"
+500 à 999 salariés","
+Temps Plein, CDI",2023-07-31,"A propos de notre client:
+Nous recherchons pour le compte de notre client leader dans le secteur de la santé, un ingénieur Data/BI en CDI, basé proche de Nice.
+Descriptif du poste:
+Vous êtes le garant du support,de la maintenance, des évolutions et des projets BI de votre domaine d'application, vous travaillerez en étroite collaboration avec les équipes business (principalement commerciales et marketing) ainsi que les autres membres de l'équipe BI.
+Vos principales missions seront :
+- Assurer le support utilisateur de la plateforme BI en collaboration avec l'équipe BI.
+- Traiter les demandes d'évolution et de maintenance de votre domaine : analyse, modélisation, conception, reporting, tests, communication et suivi du traitement de la demande, dans le respect du planning et du budget validé.
+- Gérer la documentation (projets, évolutions, maintenance …) et appliquer les normes et procédures internes.
+- Mener à bien les projets relatifs à son domaine de compétences en termes de qualité, délais et coûts.
+- Assurer le management opérationnel de plusieurs projets pouvant être menés en parallèle ainsi que l'interface entre les utilisateurs et les spécialistes de la technologie utilisée (consulting).
+- Rendre compte à son supérieur hiérarchique de l'avancement des projets et des évolutions, des difficultés rencontrées ainsi que des événements prévisibles.
+Profil recherché:
+De formation BAC+4/5 en Informatique, vous possédez une expérience d'au moins 2 ans dans la modélisation et la conception BI autour de la plateforme SAP BI, avec en particulier la maitrise de l'ETL SAP Data Services, la conception d'univers BO, le reporting SAP Web Intelligence et Microsoft PowerBI.
+Une expérience sur les ERPs SAP et/ou Microsoft Dynamics Nav, ainsi que la pratique du langage Python serait un plus.
+Vous êtes très bon communiquant, rigoureux, avec le sens de l'analyse et de l'agilité.
+Anglais : lu, parlé, écrit.
+Réf. de l’offre: 307-S13-R001321_03R",bi,c1f4e406-d64e-44f2-b074-cb96d0240452,Ingénieur data/bi (F/H),Ingénieur data/bi (F/H)
+5,"
+112, Av De Paris CS 60002
+Vincennes, IDF 94300",,,,"
+Il y a 13 jours",,,,,,"
+Temps Plein, CDI",2023-07-31,"Assistance à maîtrise d’ouvrage Décisionnelle (B.I.) sur Projets Data
+
+Contexte :
+Au sein de la DSI, l'objet de la mission est d’accompagner la maîtrise d’ouvrage du Service SI Data dans l’ensemble destâches à réaliser pour répondre aux besoins métiers exprimés.
+Dans le contexte des cadres agiles Scrum et Kanban, l’objet de la prestation est de respecter les engagements de réalisation des US (User Stories) des Sprints Scrum et de traitement des fiches Kanban.
+
+
+Définition et nature des tâches à réaliser
+La prestation concerne des activités d’Assistance à Maîtrise d’Ouvrage (AMOA) avec un rôle d’Analyste d’Affaires (Business Analyst) pour la conception, la mise en œuvre et la gestion patrimoniale des produits data concernés.
+Elle comprend les tâches suivantes :
+Recueil et analyse des besoins métiers ;
+Analyse des données permettant de réaliser de manière rigoureuse les autres tâches ;
+Rédaction des spécifications fonctionnelles : modèle de données, dictionnaire de données, procédureset règles d’alimentation, univers Business Objects (SAP BI4), data Viz Tableau, workflow Alteryx ;
+Rédaction des plans de tests et recette ;
+Réalisation et suivi des recettes ;
+Préparation et suivi des mises en production ;
+Rédaction de la documentation fonctionnelle ;
+Réalisation ou aide à la réalisation de documents SAP BI4, de dataviz Tableau et de workflows Alteryx;
+Assistance et accompagnement des parties prenantes métiers Product Owner, Data Owners et Stewards,
+Préparation et animation de cérémonies agiles.
+
+
+Profil recherché
+Ingénieur Décisionnel ayant une expérience de 5 à 10 ans :
+- Maitrise des outils : Tableau, Alteryx, business object
+- Expertise sur les concepts portés par ces types de produits
+- Une pratique de projet en méthode agile
+- Des qualités de synthèse, de restitution et de formalisation
+- Une capacité de travail en équipe avec des qualités relationnelles et organisationnelles
+- Forte implication, pragmatisme, dynamisme, proactivité
+Analyse des données dans un contexte data (ex. données sources, staging, entrepôt, magasins) ;
+Modélisation dimensionnelle des bases de données relationnelles : étoile, flocon, gestion des historiques, hiérarchies et agrégats, clés et valeurs génériques, normalisation des entités/relations ;
+Domaines et activités métiers d’une banque de détail en général dont notamment la tenue de compte, les moyens de paiement, l’activité de banque en ligne, le calcul du PNB (Produit Net Bancaire), la production d’états réglementaires ;
+Cadres agiles Scrum et Kanban ;
+Architecture fonctionnelle et technique sur les entrepôts et lac de données ;
+Design de solution : analyse et préconisation des solutions à partir des besoins métiers ;
+Requêtage et Data Viz : la maîtrise des outils SAP BI 4 et Tableau sera un plus ;
+Flux de travaux : la maîtrise de l’outil de workflow Alteryx sera un plus ;
+Environnements applicatifs complexes (intégration de SI) avec des acteurs multiples (métiers, informatiques, partenaires externes).
+
+Si intéressé, merci d'envoyer sans délai votre CV + date de disponibilité +salaire/prétentions/tarif à drh@digital-it.fr sous la réf 5307.",bi,d27d5179-1a2f-47b6-a8e6-747a61e4922a,Ingénieur Décisionnel SAP BI + TABLEAU SOFTWARE (H/F),DIGITAL-IT
+6,"
+Carros, PACA 06511",,,,"
+Il y a 6 jours","
+36 000 € Par An","
+Chimie","
+http://www.expectra.fr",,"
+500 à 999 salariés","
+Temps Plein, CDI",2023-07-31,"A propos de notre client:
+Nous recherchons pour le compte de notre client leader dans le secteur de la santé, un ingénieur Data/BI en CDI, basé proche de Nice.
+Descriptif du poste:
+Vous êtes le garant du support,de la maintenance, des évolutions et des projets BI de votre domaine d'application, vous travaillerez en étroite collaboration avec les équipes business (principalement commerciales et marketing) ainsi que les autres membres de l'équipe BI.
+Vos principales missions seront :
+- Assurer le support utilisateur de la plateforme BI en collaboration avec l'équipe BI.
+- Traiter les demandes d'évolution et de maintenance de votre domaine : analyse, modélisation, conception, reporting, tests, communication et suivi du traitement de la demande, dans le respect du planning et du budget validé.
+- Gérer la documentation (projets, évolutions, maintenance …) et appliquer les normes et procédures internes.
+- Mener à bien les projets relatifs à son domaine de compétences en termes de qualité, délais et coûts.
+- Assurer le management opérationnel de plusieurs projets pouvant être menés en parallèle ainsi que l'interface entre les utilisateurs et les spécialistes de la technologie utilisée (consulting).
+- Rendre compte à son supérieur hiérarchique de l'avancement des projets et des évolutions, des difficultés rencontrées ainsi que des événements prévisibles.
+Profil recherché:
+De formation BAC+4/5 en Informatique, vous possédez une expérience d'au moins 2 ans dans la modélisation et la conception BI autour de la plateforme SAP BI, avec en particulier la maitrise de l'ETL SAP Data Services, la conception d'univers BO, le reporting SAP Web Intelligence et Microsoft PowerBI.
+Une expérience sur les ERPs SAP et/ou Microsoft Dynamics Nav, ainsi que la pratique du langage Python serait un plus.
+Vous êtes très bon communiquant, rigoureux, avec le sens de l'analyse et de l'agilité.
+Anglais : lu, parlé, écrit.
+Réf. de l’offre: 307-S13-R001321_03R",bi,a7dad656-31e7-473b-a4ad-7beb59c88c8d,Ingénieur data/bi (F/H),Ingénieur data/bi (F/H)
+7,"
+112, Av De Paris CS 60002
+Vincennes, IDF 94300",,,,"
+Il y a 13 jours",,,,,,"
+Temps Plein, CDI",2023-07-31,"Assistance à maîtrise d’ouvrage Décisionnelle (B.I.) sur Projets Data
+
+Contexte :
+Au sein de la DSI, l'objet de la mission est d’accompagner la maîtrise d’ouvrage du Service SI Data dans l’ensemble destâches à réaliser pour répondre aux besoins métiers exprimés.
+Dans le contexte des cadres agiles Scrum et Kanban, l’objet de la prestation est de respecter les engagements de réalisation des US (User Stories) des Sprints Scrum et de traitement des fiches Kanban.
+
+
+Définition et nature des tâches à réaliser
+La prestation concerne des activités d’Assistance à Maîtrise d’Ouvrage (AMOA) avec un rôle d’Analyste d’Affaires (Business Analyst) pour la conception, la mise en œuvre et la gestion patrimoniale des produits data concernés.
+Elle comprend les tâches suivantes :
+Recueil et analyse des besoins métiers ;
+Analyse des données permettant de réaliser de manière rigoureuse les autres tâches ;
+Rédaction des spécifications fonctionnelles : modèle de données, dictionnaire de données, procédureset règles d’alimentation, univers Business Objects (SAP BI4), data Viz Tableau, workflow Alteryx ;
+Rédaction des plans de tests et recette ;
+Réalisation et suivi des recettes ;
+Préparation et suivi des mises en production ;
+Rédaction de la documentation fonctionnelle ;
+Réalisation ou aide à la réalisation de documents SAP BI4, de dataviz Tableau et de workflows Alteryx;
+Assistance et accompagnement des parties prenantes métiers Product Owner, Data Owners et Stewards,
+Préparation et animation de cérémonies agiles.
+
+
+Profil recherché
+Ingénieur Décisionnel ayant une expérience de 5 à 10 ans :
+- Maitrise des outils : Tableau, Alteryx, business object
+- Expertise sur les concepts portés par ces types de produits
+- Une pratique de projet en méthode agile
+- Des qualités de synthèse, de restitution et de formalisation
+- Une capacité de travail en équipe avec des qualités relationnelles et organisationnelles
+- Forte implication, pragmatisme, dynamisme, proactivité
+Analyse des données dans un contexte data (ex. données sources, staging, entrepôt, magasins) ;
+Modélisation dimensionnelle des bases de données relationnelles : étoile, flocon, gestion des historiques, hiérarchies et agrégats, clés et valeurs génériques, normalisation des entités/relations ;
+Domaines et activités métiers d’une banque de détail en général dont notamment la tenue de compte, les moyens de paiement, l’activité de banque en ligne, le calcul du PNB (Produit Net Bancaire), la production d’états réglementaires ;
+Cadres agiles Scrum et Kanban ;
+Architecture fonctionnelle et technique sur les entrepôts et lac de données ;
+Design de solution : analyse et préconisation des solutions à partir des besoins métiers ;
+Requêtage et Data Viz : la maîtrise des outils SAP BI 4 et Tableau sera un plus ;
+Flux de travaux : la maîtrise de l’outil de workflow Alteryx sera un plus ;
+Environnements applicatifs complexes (intégration de SI) avec des acteurs multiples (métiers, informatiques, partenaires externes).
+
+Si intéressé, merci d'envoyer sans délai votre CV + date de disponibilité +salaire/prétentions/tarif à drh@digital-it.fr sous la réf 5307.",bi,43f49ec7-c8ca-4799-a742-3b0c566ce76d,Ingénieur Décisionnel SAP BI + TABLEAU SOFTWARE (H/F),DIGITAL-IT
+8,"
+Carros, PACA 06511",,,,"
+Il y a 6 jours","
+36 000 € Par An","
+Chimie","
+http://www.expectra.fr",,"
+500 à 999 salariés","
+Temps Plein, CDI",2023-07-31,"A propos de notre client:
+Nous recherchons pour le compte de notre client leader dans le secteur de la santé, un ingénieur Data/BI en CDI, basé proche de Nice.
+Descriptif du poste:
+Vous êtes le garant du support,de la maintenance, des évolutions et des projets BI de votre domaine d'application, vous travaillerez en étroite collaboration avec les équipes business (principalement commerciales et marketing) ainsi que les autres membres de l'équipe BI.
+Vos principales missions seront :
+- Assurer le support utilisateur de la plateforme BI en collaboration avec l'équipe BI.
+- Traiter les demandes d'évolution et de maintenance de votre domaine : analyse, modélisation, conception, reporting, tests, communication et suivi du traitement de la demande, dans le respect du planning et du budget validé.
+- Gérer la documentation (projets, évolutions, maintenance …) et appliquer les normes et procédures internes.
+- Mener à bien les projets relatifs à son domaine de compétences en termes de qualité, délais et coûts.
+- Assurer le management opérationnel de plusieurs projets pouvant être menés en parallèle ainsi que l'interface entre les utilisateurs et les spécialistes de la technologie utilisée (consulting).
+- Rendre compte à son supérieur hiérarchique de l'avancement des projets et des évolutions, des difficultés rencontrées ainsi que des événements prévisibles.
+Profil recherché:
+De formation BAC+4/5 en Informatique, vous possédez une expérience d'au moins 2 ans dans la modélisation et la conception BI autour de la plateforme SAP BI, avec en particulier la maitrise de l'ETL SAP Data Services, la conception d'univers BO, le reporting SAP Web Intelligence et Microsoft PowerBI.
+Une expérience sur les ERPs SAP et/ou Microsoft Dynamics Nav, ainsi que la pratique du langage Python serait un plus.
+Vous êtes très bon communiquant, rigoureux, avec le sens de l'analyse et de l'agilité.
+Anglais : lu, parlé, écrit.
+Réf. de l’offre: 307-S13-R001321_03R",bi,f628da80-a3d3-4c4c-8a4e-686b2c48af9d,Ingénieur data/bi (F/H),Ingénieur data/bi (F/H)
+9,"
+112, Av De Paris CS 60002
+Vincennes, IDF 94300",,,,"
+Il y a 13 jours",,,,,,"
+Temps Plein, CDI",2023-07-31,"Assistance à maîtrise d’ouvrage Décisionnelle (B.I.) sur Projets Data
+
+Contexte :
+Au sein de la DSI, l'objet de la mission est d’accompagner la maîtrise d’ouvrage du Service SI Data dans l’ensemble destâches à réaliser pour répondre aux besoins métiers exprimés.
+Dans le contexte des cadres agiles Scrum et Kanban, l’objet de la prestation est de respecter les engagements de réalisation des US (User Stories) des Sprints Scrum et de traitement des fiches Kanban.
+
+
+Définition et nature des tâches à réaliser
+La prestation concerne des activités d’Assistance à Maîtrise d’Ouvrage (AMOA) avec un rôle d’Analyste d’Affaires (Business Analyst) pour la conception, la mise en œuvre et la gestion patrimoniale des produits data concernés.
+Elle comprend les tâches suivantes :
+Recueil et analyse des besoins métiers ;
+Analyse des données permettant de réaliser de manière rigoureuse les autres tâches ;
+Rédaction des spécifications fonctionnelles : modèle de données, dictionnaire de données, procédureset règles d’alimentation, univers Business Objects (SAP BI4), data Viz Tableau, workflow Alteryx ;
+Rédaction des plans de tests et recette ;
+Réalisation et suivi des recettes ;
+Préparation et suivi des mises en production ;
+Rédaction de la documentation fonctionnelle ;
+Réalisation ou aide à la réalisation de documents SAP BI4, de dataviz Tableau et de workflows Alteryx;
+Assistance et accompagnement des parties prenantes métiers Product Owner, Data Owners et Stewards,
+Préparation et animation de cérémonies agiles.
+
+
+Profil recherché
+Ingénieur Décisionnel ayant une expérience de 5 à 10 ans :
+- Maitrise des outils : Tableau, Alteryx, business object
+- Expertise sur les concepts portés par ces types de produits
+- Une pratique de projet en méthode agile
+- Des qualités de synthèse, de restitution et de formalisation
+- Une capacité de travail en équipe avec des qualités relationnelles et organisationnelles
+- Forte implication, pragmatisme, dynamisme, proactivité
+Analyse des données dans un contexte data (ex. données sources, staging, entrepôt, magasins) ;
+Modélisation dimensionnelle des bases de données relationnelles : étoile, flocon, gestion des historiques, hiérarchies et agrégats, clés et valeurs génériques, normalisation des entités/relations ;
+Domaines et activités métiers d’une banque de détail en général dont notamment la tenue de compte, les moyens de paiement, l’activité de banque en ligne, le calcul du PNB (Produit Net Bancaire), la production d’états réglementaires ;
+Cadres agiles Scrum et Kanban ;
+Architecture fonctionnelle et technique sur les entrepôts et lac de données ;
+Design de solution : analyse et préconisation des solutions à partir des besoins métiers ;
+Requêtage et Data Viz : la maîtrise des outils SAP BI 4 et Tableau sera un plus ;
+Flux de travaux : la maîtrise de l’outil de workflow Alteryx sera un plus ;
+Environnements applicatifs complexes (intégration de SI) avec des acteurs multiples (métiers, informatiques, partenaires externes).
+
+Si intéressé, merci d'envoyer sans délai votre CV + date de disponibilité +salaire/prétentions/tarif à drh@digital-it.fr sous la réf 5307.",bi,ffe49a07-6948-4b21-ba8f-004ab01c1905,Ingénieur Décisionnel SAP BI + TABLEAU SOFTWARE (H/F),DIGITAL-IT
